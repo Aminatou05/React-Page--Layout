@@ -1,0 +1,38 @@
+/* App.css */
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+/* Homepage.css */
+.homepage {
+  margin-top: 20px;
+}
+
+/* Header.css */
+.header {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+}
+
+/* SearchBar.css */
+.search-bar {
+  margin-bottom: 20px;
+}
+
+/* EmployeeList.css */
+.employee-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+/* EmployeeListItem.css */
+.employee-list-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
